@@ -67,5 +67,5 @@
 //         }}
 //             return even
 //         }
-//            console.log(odd([1,2,3,4,5,6]));//same as anonyms function and fn ends b4 console
+//            console.log(odd([1,2,3,4,5,6]));//boday part is same as anonyms function and fn is called like iife and fn ends b4 console
         
